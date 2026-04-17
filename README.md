@@ -1,4 +1,4 @@
-# Universeti
+# Mobuil Shop
 
 Android-приложение магазина с двумя ролями: **оператор** (управление товарами и витринами) и **пользователь** (поиск товара на карте магазина).
 
@@ -62,7 +62,7 @@ UI-слой (Activity) не покрыт — для него нужны instrume
 - `allowBackup=true` в манифесте — JSON с паролями попадает в авто-бэкап.
 - Нет миграции схемы JSON — при изменении моделей старые данные нужно удалять вручную.
 
-# Как запустить Universeti
+# Как запустить Mobuil Shop
 
 Руководство по запуску приложения в **Android Studio** и **VS Code**.
 
@@ -177,9 +177,3 @@ AVD создаётся один раз в Android Studio (`Tools → Device Mana
 | `adb: command not found`                        | Использовать полный путь `~/Library/Android/sdk/platform-tools/adb` или добавить его в `PATH`                                  |
 | Gradle sync зависает                            | `./gradlew --stop`, удалить `.gradle/`, пересинхронизировать                                                                   |
 | Тест падает с `RuntimeException` в `JSONObject` | Тест использует `org.json` — добавить `@RunWith(RobolectricTestRunner.class)`                                                  |
-
----
-
-## Что дальше
-
-Описание приложения, архитектуры и структуры пакетов — в [README.md](README.md).
