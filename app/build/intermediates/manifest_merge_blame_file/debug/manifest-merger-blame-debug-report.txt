@@ -9,8 +9,8 @@
 9        android:targetSdkVersion="34" />
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:4:5-67
-11-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:4:22-64
+11-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:4:22-64
 12
 13    <permission
 13-->[androidx.core:core:1.9.0] /Users/antonlaid/.gradle/caches/transforms-3/0b3d22ab099177b3472464321ad2c41c/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
@@ -24,60 +24,60 @@
 17-->[androidx.core:core:1.9.0] /Users/antonlaid/.gradle/caches/transforms-3/0b3d22ab099177b3472464321ad2c41c/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
 18
 19    <application
-19-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:6:5-35:19
+19-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:6:5-35:19
 20        android:allowBackup="true"
-20-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:7:9-35
+20-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:7:9-35
 21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 21-->[androidx.core:core:1.9.0] /Users/antonlaid/.gradle/caches/transforms-3/0b3d22ab099177b3472464321ad2c41c/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 22        android:debuggable="true"
 23        android:extractNativeLibs="false"
 24        android:icon="@drawable/ic_launcher"
-24-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:9:9-45
+24-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:9:9-45
 25        android:label="@string/app_name"
-25-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:10:9-41
+25-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:10:9-41
 26        android:roundIcon="@drawable/ic_launcher"
-26-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:11:9-50
+26-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:11:9-50
 27        android:supportsRtl="true"
-27-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:12:9-35
+27-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:12:9-35
 28        android:theme="@style/Theme.UniversetiApp"
-28-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:13:9-51
+28-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:13:9-51
 29        android:usesCleartextTraffic="true" >
-29-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:8:9-44
+29-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:8:9-44
 30        <activity
-30-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:15:9-22:20
+30-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:15:9-22:20
 31            android:name="com.example.universeti.ui.LoginActivity"
-31-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:16:13-45
+31-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:16:13-45
 32            android:exported="true" >
-32-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:17:13-36
+32-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:17:13-36
 33            <intent-filter>
-33-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:18:13-21:29
+33-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:18:13-21:29
 34                <action android:name="android.intent.action.MAIN" />
-34-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:19:17-69
-34-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:19:25-66
+34-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:19:17-69
+34-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:19:25-66
 35
 36                <category android:name="android.intent.category.LAUNCHER" />
-36-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:20:17-77
-36-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:20:27-74
+36-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:20:17-77
+36-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:20:27-74
 37            </intent-filter>
 38        </activity>
 39        <activity
-39-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:24:9-26:40
+39-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:24:9-26:40
 40            android:name="com.example.universeti.ui.RegisterActivity"
-40-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:25:13-48
+40-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:25:13-48
 41            android:exported="false" />
-41-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:26:13-37
+41-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:26:13-37
 42        <activity
-42-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:28:9-30:40
+42-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:28:9-30:40
 43            android:name="com.example.universeti.ui.UserHomeActivity"
-43-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:29:13-48
+43-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:29:13-48
 44            android:exported="false" />
-44-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:30:13-37
+44-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:30:13-37
 45        <activity
-45-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:32:9-34:40
+45-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:32:9-34:40
 46            android:name="com.example.universeti.ui.OperatorHomeActivity"
-46-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:33:13-52
+46-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:33:13-52
 47            android:exported="false" />
-47-->/Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/AndroidManifest.xml:34:13-37
+47-->/Applications/Аpp/Universeti/mobuil-shop/app/src/main/AndroidManifest.xml:34:13-37
 48
 49        <provider
 49-->[androidx.emoji2:emoji2:1.2.0] /Users/antonlaid/.gradle/caches/transforms-3/9e497d5e9f54b6e90ad951dbab4c9ece/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20

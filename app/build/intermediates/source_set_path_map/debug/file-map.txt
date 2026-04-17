@@ -1,10 +1,10 @@
-com.example.universeti.app-pngs-0 /Applications/Аpp/Universeti/app/UniversetiApp/app/build/generated/res/pngs/debug
-com.example.universeti.app-resValues-1 /Applications/Аpp/Universeti/app/UniversetiApp/app/build/generated/res/resValues/debug
-com.example.universeti.app-packageDebugResources-2 /Applications/Аpp/Universeti/app/UniversetiApp/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.universeti.app-packageDebugResources-3 /Applications/Аpp/Universeti/app/UniversetiApp/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.universeti.app-merged_res-4 /Applications/Аpp/Universeti/app/UniversetiApp/app/build/intermediates/merged_res/debug
-com.example.universeti.app-debug-5 /Applications/Аpp/Universeti/app/UniversetiApp/app/src/debug/res
-com.example.universeti.app-main-6 /Applications/Аpp/Universeti/app/UniversetiApp/app/src/main/res
+com.example.universeti.app-pngs-0 /Applications/Аpp/Universeti/mobuil-shop/app/build/generated/res/pngs/debug
+com.example.universeti.app-resValues-1 /Applications/Аpp/Universeti/mobuil-shop/app/build/generated/res/resValues/debug
+com.example.universeti.app-packageDebugResources-2 /Applications/Аpp/Universeti/mobuil-shop/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.universeti.app-packageDebugResources-3 /Applications/Аpp/Universeti/mobuil-shop/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.universeti.app-merged_res-4 /Applications/Аpp/Universeti/mobuil-shop/app/build/intermediates/merged_res/debug
+com.example.universeti.app-debug-5 /Applications/Аpp/Universeti/mobuil-shop/app/src/debug/res
+com.example.universeti.app-main-6 /Applications/Аpp/Universeti/mobuil-shop/app/src/main/res
 com.example.universeti.app-cardview-1.0.0-7 /Users/antonlaid/.gradle/caches/transforms-3/04982dfa78b345590af07a01319f4e04/transformed/cardview-1.0.0/res
 com.example.universeti.app-core-1.9.0-8 /Users/antonlaid/.gradle/caches/transforms-3/0b3d22ab099177b3472464321ad2c41c/transformed/core-1.9.0/res
 com.example.universeti.app-core-runtime-2.2.0-9 /Users/antonlaid/.gradle/caches/transforms-3/0f7a997963371c33c0d9d42e356b95ab/transformed/core-runtime-2.2.0/res
