@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.universeti.data.ShelfRepositoryTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-04-17T14:39:29" hostname="Antons-MacBook-Pro.local" time="0.04">
+  <properties/>
+  <testcase name="saveAll_updatesPositions" classname="com.example.universeti.data.ShelfRepositoryTest" time="0.01"/>
+  <testcase name="defaultShelves_haveUniqueIds" classname="com.example.universeti.data.ShelfRepositoryTest" time="0.011"/>
+  <testcase name="loadAll_firstCall_returnsFourDefaults" classname="com.example.universeti.data.ShelfRepositoryTest" time="0.01"/>
+  <testcase name="loadAll_afterSave_returnsSavedList" classname="com.example.universeti.data.ShelfRepositoryTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

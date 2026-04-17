@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.universeti.model.ShelfTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-04-17T14:39:29" hostname="Antons-MacBook-Pro.local" time="0.056">
+  <properties/>
+  <testcase name="contains_pointOnEdge_returnsTrue" classname="com.example.universeti.model.ShelfTest" time="0.015"/>
+  <testcase name="contains_pointInside_returnsTrue" classname="com.example.universeti.model.ShelfTest" time="0.01"/>
+  <testcase name="setters_updatePositionButNotSize" classname="com.example.universeti.model.ShelfTest" time="0.011"/>
+  <testcase name="contains_pointOutside_returnsFalse" classname="com.example.universeti.model.ShelfTest" time="0.011"/>
+  <testcase name="jsonRoundtrip_preservesFields" classname="com.example.universeti.model.ShelfTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

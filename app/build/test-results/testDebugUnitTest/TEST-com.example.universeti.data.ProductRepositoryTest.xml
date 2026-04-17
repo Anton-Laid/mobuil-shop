@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.universeti.data.ProductRepositoryTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-04-17T14:39:29" hostname="Antons-MacBook-Pro.local" time="0.082">
+  <properties/>
+  <testcase name="newId_returnsUniqueIds" classname="com.example.universeti.data.ProductRepositoryTest" time="0.018"/>
+  <testcase name="delete_missingId_returnsFalse" classname="com.example.universeti.data.ProductRepositoryTest" time="0.011"/>
+  <testcase name="upsert_existingId_replacesProduct" classname="com.example.universeti.data.ProductRepositoryTest" time="0.01"/>
+  <testcase name="upsert_addsNewProduct" classname="com.example.universeti.data.ProductRepositoryTest" time="0.012"/>
+  <testcase name="loadAll_whenEmpty_returnsEmptyList" classname="com.example.universeti.data.ProductRepositoryTest" time="0.013"/>
+  <testcase name="delete_removesProduct" classname="com.example.universeti.data.ProductRepositoryTest" time="0.01"/>
+  <testcase name="loadAll_persistsImageUrlAndCoords" classname="com.example.universeti.data.ProductRepositoryTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

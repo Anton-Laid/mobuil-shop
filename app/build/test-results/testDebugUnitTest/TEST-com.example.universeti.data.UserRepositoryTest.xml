@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.universeti.data.UserRepositoryTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-04-17T14:39:29" hostname="Antons-MacBook-Pro.local" time="0.069">
+  <properties/>
+  <testcase name="addUser_persistsAcrossReloads" classname="com.example.universeti.data.UserRepositoryTest" time="0.009"/>
+  <testcase name="addUser_duplicateUsername_returnsFalse" classname="com.example.universeti.data.UserRepositoryTest" time="0.009"/>
+  <testcase name="findByCredentials_correctCreds_returnsUser" classname="com.example.universeti.data.UserRepositoryTest" time="0.009"/>
+  <testcase name="findByCredentials_wrongUsername_returnsNull" classname="com.example.universeti.data.UserRepositoryTest" time="0.011"/>
+  <testcase name="findByCredentials_usernameIsCaseInsensitive" classname="com.example.universeti.data.UserRepositoryTest" time="0.009"/>
+  <testcase name="loadAll_whenEmpty_returnsEmptyList" classname="com.example.universeti.data.UserRepositoryTest" time="0.008"/>
+  <testcase name="findByCredentials_wrongPassword_returnsNull" classname="com.example.universeti.data.UserRepositoryTest" time="0.007"/>
+  <testcase name="userExists_caseInsensitive" classname="com.example.universeti.data.UserRepositoryTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

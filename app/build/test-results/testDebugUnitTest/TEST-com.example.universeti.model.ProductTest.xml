@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.universeti.model.ProductTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-04-17T14:39:27" hostname="Antons-MacBook-Pro.local" time="1.784">
+  <properties/>
+  <testcase name="fromJson_missingOptionalFields_usesDefaults" classname="com.example.universeti.model.ProductTest" time="1.758"/>
+  <testcase name="jsonRoundtrip_preservesAllFields" classname="com.example.universeti.model.ProductTest" time="0.014"/>
+  <testcase name="setters_mutateFields" classname="com.example.universeti.model.ProductTest" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

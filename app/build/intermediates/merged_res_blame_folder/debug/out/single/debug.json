@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-merged_res-4:/layout_activity_operator_home.xml.flat",
+        "source": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-main-6:/layout/activity_operator_home.xml"
+    },
+    {
+        "merged": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-merged_res-4:/drawable_ic_launcher.xml.flat",
+        "source": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-main-6:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-merged_res-4:/drawable_marker.xml.flat",
+        "source": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-main-6:/drawable/marker.xml"
+    },
+    {
+        "merged": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-merged_res-4:/drawable_entrance_bg.xml.flat",
+        "source": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-main-6:/drawable/entrance_bg.xml"
+    },
+    {
+        "merged": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-merged_res-4:/drawable_shelf_bg_selected.xml.flat",
+        "source": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-main-6:/drawable/shelf_bg_selected.xml"
+    },
+    {
+        "merged": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-merged_res-4:/layout_activity_login.xml.flat",
+        "source": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-main-6:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.universeti.app-merged_res-4:/layout_dialog_product_edit.xml.flat",
+        "source": "com.example.universeti.app-main-6:/layout/dialog_product_edit.xml"
+    },
+    {
+        "merged": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-merged_res-4:/layout_dialog_product_edit.xml.flat",
+        "source": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-main-6:/layout/dialog_product_edit.xml"
+    },
+    {
+        "merged": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-merged_res-4:/layout_item_product_user.xml.flat",
+        "source": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-main-6:/layout/item_product_user.xml"
+    },
+    {
+        "merged": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-merged_res-4:/layout_item_product.xml.flat",
+        "source": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-main-6:/layout/item_product.xml"
+    },
+    {
+        "merged": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-merged_res-4:/layout_activity_register.xml.flat",
+        "source": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-main-6:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-merged_res-4:/drawable_cashier_bg.xml.flat",
+        "source": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-main-6:/drawable/cashier_bg.xml"
+    },
+    {
+        "merged": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-merged_res-4:/menu_menu_logout.xml.flat",
+        "source": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-main-6:/menu/menu_logout.xml"
+    },
+    {
+        "merged": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-merged_res-4:/drawable_store_map.xml.flat",
+        "source": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-main-6:/drawable/store_map.xml"
+    },
+    {
+        "merged": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-merged_res-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-merged_res-4:/drawable_shelf_bg.xml.flat",
+        "source": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-main-6:/drawable/shelf_bg.xml"
+    },
+    {
+        "merged": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-merged_res-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-main-6:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-merged_res-4:/layout_activity_user_home.xml.flat",
+        "source": "/Users/antonlaid/.gradle/daemon/8.5/com.example.universeti.app-main-6:/layout/activity_user_home.xml"
+    }
+]
